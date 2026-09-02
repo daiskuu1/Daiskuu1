@@ -4,7 +4,7 @@
 
 ### about
 
-15yo coding solo 👨‍💻 — going by **Daisku**, aka **Noxy**. Developer on **Brutality**, a Minecraft cheat client, with a growing background in Minecraft mod/cheat development and small practical tools for local businesses.
+15yo coding solo developer 👨‍💻 — going by **Daisku**, aka **Spec**. Developer on **Brutality**, a Minecraft cheat client, with a growing background in Minecraft mod/cheat development and small practical tools for local businesses.
 
 🎮 osu! & Minecraft in my free time • 🌸 unapologetic romance anime fan
 
@@ -27,7 +27,7 @@
 #### [Brutality](https://www.youtube.com/watch?v=Qrp6ziB1Ek0)
 **Minecraft Cheat Client** — *Developer*
 
-A Minecraft cheat client built with a focus on performance and a clean, usable interface.
+A Minecraft cheat client built with a focus on top tier Bypasses and a clean, usable interface.
 
 <a href="https://www.youtube.com/watch?v=Qrp6ziB1Ek0">
   <img src="https://img.shields.io/badge/▶_Watch_Showcase-YouTube-red?style=for-the-badge&logo=youtube" alt="Showcase">
@@ -35,7 +35,7 @@ A Minecraft cheat client built with a focus on performance and a clean, usable i
 
 <br><br>
 
-#### Cold Calling Business Database
+#### Leadify
 **Lead-Generation Tool for Web Design Outreach**
 
 A database tool that tracks 300+ local businesses without an existing website, built for cold-calling and pitching web design services.
