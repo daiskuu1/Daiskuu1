@@ -1,16 +1,52 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/daiskuu1/daiskuu1/main/banner.jpg" alt="Daisku banner" width="100%">
+</p>
 
-<!--
-**daiskuu1/Daiskuu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about
 
-Here are some ideas to get you started:
+15yo coding solo 👨‍💻 — going by **Daisku**, aka **Noxy**. Developer on **Brutality**, a Minecraft cheat client, with a growing background in Minecraft mod/cheat development and small practical tools for local businesses.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎮 osu! & Minecraft in my free time • 🌸 unapologetic romance anime fan
+
+---
+
+### core skills
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,java,py,git&theme=dark" alt="core skills" />
+</p>
+
+- **languages**: HTML • CSS • Java • Python
+- **specialty**: Minecraft client & cheat development
+- **tools**: Git • GitHub
+
+---
+
+### featured projects
+
+#### [Brutality](https://www.youtube.com/watch?v=Qrp6ziB1Ek0)
+**Minecraft Cheat Client** — *Developer*
+
+A Minecraft cheat client built with a focus on performance and a clean, usable interface.
+
+<a href="https://www.youtube.com/watch?v=Qrp6ziB1Ek0">
+  <img src="https://img.shields.io/badge/▶_Watch_Showcase-YouTube-red?style=for-the-badge&logo=youtube" alt="Showcase">
+</a>
+
+<br><br>
+
+#### Cold Calling Business Database
+**Lead-Generation Tool for Web Design Outreach**
+
+A database tool that tracks 300+ local businesses without an existing website, built for cold-calling and pitching web design services.
+- Tracks 300+ businesses missing a web presence
+- Supports adding your own businesses to the database
+- Built to streamline outreach and sales calls
+
+---
+
+### activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daiskuu1&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+</p>
