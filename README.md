@@ -4,9 +4,9 @@
 
 ### about
 
-15yo coding solo developer 👨‍💻 — going by **Daisku**, aka **Spec**. Developer on **Brutality**, a Minecraft cheat client, with a growing background in Minecraft mod/cheat development and small practical tools for local businesses.
+15yo coding solo developer 👨‍💻 — going by **Daisku**, aka **Spec**. Developer on **Brutality**, a Minecraft cheat client, with a growing background in Minecraft mod/cheat | i aslo develop small practical tools/software for Freelancers and local buisnesses.
 
-🎮 osu! & Minecraft in my free time • 🌸 unapologetic romance anime fan
+🎮 I play osu! & Minecraft in my free time • 🌸 i aslo love romance anime
 
 ---
 
