@@ -45,6 +45,12 @@ A database tool that tracks 300+ local businesses without an existing website, b
 
 ---
 
+### ACC
+*An Automatic Dialer for Leadify*
+- Fully supports any lead
+- Automatically dials numbers 
+- Displays Lead Information
+
 ### activity
 
 <p align="center">
